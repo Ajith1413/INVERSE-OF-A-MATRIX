@@ -24,8 +24,8 @@ a = [[6,2,3],[3,1,1],[10,3,4]]
 print(np.linalg.inv(a))
 ```
 ## Output:
+![image](https://github.com/Ajith1413/INVERSE-OF-A-MATRIX/assets/139842524/bb8b6dc6-e006-4440-972e-dcdf9ba47814)
 
-![image](https://github.com/Ajith1413/INVERSE-OF-A-MATRIX/assets/139842524/1f7b808f-1d1e-4d1b-9c0f-6b09ffbe3fb9)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program.
